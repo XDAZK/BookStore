@@ -4,5 +4,8 @@
   "private": true,
   "dependencies": {
     "@abp/aspnetcore.mvc.ui.theme.basic": "^7.3.3"
+  },
+  "devDependencies": {
+    "eslint": "^8.49.0"
   }
 }
